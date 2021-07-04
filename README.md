@@ -1,6 +1,12 @@
 # how-to-install-vnc-on-windows-server
 how to install vnc on windows server
 
+## Change password windows server
+```
+Control Panel\User Accounts\User Accounts\Manage Accounts\Change an Account\Change Password
+```
+
+
 ## Step 0: dùng remote desktop kết nối vào server
 ## Step 1: Download tightvnc cho server, cài đặt và open port 5900, đặt password cho nó
 https://www.configserverfirewall.com/windows-10/install-vnc-server-windows-10/
